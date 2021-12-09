@@ -3,17 +3,17 @@
   "version": "0.0.0",
   "description": "",
   "keywords": [],
-  "homepage": "https://github.com/antfu/[name]#readme",
+  "homepage": "https://github.com/didavid61202/[name]#readme",
   "bugs": {
-    "url": "https://github.com/antfu/[name]/issues"
+    "url": "https://github.com/didavid61202/[name]/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/[name].git"
+    "url": "git+https://github.com/didavid61202/[name].git"
   },
-  "funding": "https://github.com/sponsors/antfu",
+  "funding": "https://github.com/sponsors/didavid61202",
   "license": "MIT",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "author": "David Tai <didavid61202@gmail.com>",
   "sideEffects": false,
   "exports": {
     ".": {
