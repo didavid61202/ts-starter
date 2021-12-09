@@ -4,4 +4,4 @@
 
 ## License
 
-[MIT](./LICENSE) License © 2021 [David Tai](https://github.com/antfu)
+[MIT](./LICENSE) License © 2021 [David Tai](https://github.com/didavid61202)
